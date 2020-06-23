@@ -1,0 +1,11 @@
+{
+  "short_name": "D3 code Generator",
+  "name": "D3 Code Generator",
+  "icons": [
+    
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
